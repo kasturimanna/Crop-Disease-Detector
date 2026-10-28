@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+CropDoctor/venv/
+
+# Python cache files
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Datasets and Large Archive Files (Exceeds GitHub limits)
+Dataset/
+PlantDataset_YOLO11/
+crop_disease_detection_dataset/
+*.zip
+*.tar
+*.tar.gz
+temp_subsample/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+*.sqlite3
+CropDoctor/database.db
+
+# User Uploads
+CropDoctor/static/uploads/*
+!CropDoctor/static/uploads/.gitkeep
