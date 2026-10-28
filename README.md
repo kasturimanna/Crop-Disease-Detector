@@ -83,7 +83,7 @@ Crop-Disease-Detector/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kasturimanna7/Crop-Disease-Detector.git
+git clone https://github.com/kasturimanna/Crop-Disease-Detector.git
 cd Crop-Disease-Detector
 ```
 
